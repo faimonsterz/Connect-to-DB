@@ -1,0 +1,12 @@
+{
+    "image" : "assets/polo-shirt.png",
+    "name": "Raundry care",
+    "price": {
+        "shirtShout" : 20,
+        "shirtLong" : 25,
+        "skirt" : 25,
+        "pant" : 25
+    }
+     
+
+}

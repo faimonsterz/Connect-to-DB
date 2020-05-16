@@ -1,0 +1,45 @@
+name: laundry
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  curved_navigation_bar: ^0.3.2
+  search_widget: ^1.0.2
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+  - assets/washing-machine.png
+  - assets/no-images.png
+  - assets/plus.png
+  - assets/minus.png
+  - assets/detailshop1.jpeg
+  - assets/shirt.png
+  - assets/polo-shirt.png
+  - assets/girl.png
+  - assets/json/
+
+  fonts:
+    - family: Exo
+      fonts:
+        - asset: font/Exo-Regular.ttf
+        - asset: font/Exo-Bold.ttf
+        - asset: font/Exo-Italic.ttf
